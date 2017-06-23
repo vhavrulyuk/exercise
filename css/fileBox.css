@@ -9,7 +9,7 @@ body {
     border-radius: 3px;
     border: 1px solid #d9d9d9;
     width: 250px;
-    height: 25px;
+    height: auto;
     text-align: left;
     line-height: 25px;
     color: #808080;
