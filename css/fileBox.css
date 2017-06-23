@@ -1,0 +1,31 @@
+body {
+    background-color: #fcfdff;
+}
+.fileInfoBox {
+    background-color: white;
+    margin: 3px;
+    padding: 10px;
+    border-radius: 3px;
+    border: 1px solid #d9d9d9;
+    width: 250px;
+    height: 25px;
+    text-align: left;
+    line-height: 25px;
+    color: #808080;
+}
+.fileNameBox {
+    float: left;
+    min-width: 50px;
+    max-width: 150px;
+    /*white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;*/
+}
+.fileSize {
+    float: left;
+    color: #2B6FB6;
+}
+.clear-both {
+    clear: both;
+}
+
