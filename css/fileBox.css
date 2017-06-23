@@ -1,6 +1,7 @@
 body {
     background-color: #fcfdff;
 }
+
 .fileInfoBox {
     background-color: white;
     margin: 3px;
@@ -13,18 +14,18 @@ body {
     line-height: 25px;
     color: #808080;
 }
+
 .fileNameBox {
     float: left;
     min-width: 50px;
     max-width: 150px;
-    /*white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;*/
 }
+
 .fileSize {
     float: left;
     color: #2B6FB6;
 }
+
 .clear-both {
     clear: both;
 }
